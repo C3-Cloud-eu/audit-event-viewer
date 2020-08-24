@@ -1,7 +1,7 @@
 {
   "name": "audit-event-viewer",
-  "version": "0.0.0",
-  "license": "MIT",
+  "version": "1.0.0",
+  "license": "Apache",
   "angular-cli": {},
   "scripts": {
     "ng": "ng",
