@@ -6,6 +6,8 @@
 
 AuditEventViewer is a single-page web application that enables viewing and filtering [FHIR STU3](https://hl7.org/fhir/STU3/) based audit events.
 
+This application can be run alsongside any FHIR repository, such as the [onFHIR.io](https://github.com/srdc/onfhir) repository released by SRDC.
+
 ## Dependencies
 
 - [node](https://nodejs.org/)
